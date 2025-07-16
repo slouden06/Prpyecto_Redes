@@ -1,0 +1,34 @@
+{
+  "zonas": [
+    {
+      "nombre": "Parque Simón Bolívar",
+      "coordenadas": [4.6584, -74.0935],
+      "estado": "Bueno",
+      "recomendacion": "Mantener en buen estado con jornadas comunitarias."
+    },
+    {
+      "nombre": "Parque El Tunal",
+      "coordenadas": [4.5636, -74.1263],
+      "estado": "Regular",
+      "recomendacion": "Realizar limpieza y poda de árboles."
+    },
+    {
+      "nombre": "Parque Los Novios",
+      "coordenadas": [4.6731, -74.0823],
+      "estado": "Crítico",
+      "recomendacion": "Urgente intervención para reforestación."
+    },
+    {
+      "nombre": "Parque Ciudad Montes",
+      "coordenadas": [4.5955, -74.1001],
+      "estado": "Crítico",
+      "recomendacion": "Campañas de limpieza y señalización."
+    },
+    {
+      "nombre": "Parque La Independencia",
+      "coordenadas": [4.6097, -74.0702],
+      "estado": "Regular",
+      "recomendacion": "Reforestación de áreas secas."
+    }
+  ]
+}
